@@ -1,5 +1,7 @@
 package main
 
+// Pattern: Hash Map Lookup
+
 // HACK: Core Pattern of Hash Lookup
 
 // Hash Map (Value -> Index) Lookup
